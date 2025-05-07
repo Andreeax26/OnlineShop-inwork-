@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\082f3032-519c-45a5-b151-85c401ea00e9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\082f3032-519c-45a5-b151-85c401ea00e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\4992aa2d-c016-4088-8126-cddc82889d20.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\4992aa2d-c016-4088-8126-cddc82889d20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Aplicatie.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Aplicatie.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Aplicatie.API.props",
+      "PackagePath": "build\\Aplicatie.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Aplicatie.API.props",
+      "PackagePath": "buildMultiTargeting\\Aplicatie.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Aplicatie.API.props",
+      "PackagePath": "buildTransitive\\Aplicatie.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

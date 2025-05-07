@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "4AD3IhgvjvQ8lXpD9diYdUMI5EmAbofFw0o6t7AfPpg=",
+  "Source": "Aplicatie.API",
+  "BasePath": "_content/Aplicatie.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aplicatie.API\\wwwroot",
+      "Source": "Aplicatie.API",
+      "ContentRoot": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\",
+      "BasePath": "_content/Aplicatie.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\082f3032-519c-45a5-b151-85c401ea00e9.jpg",
+      "SourceId": "Aplicatie.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\",
+      "BasePath": "_content/Aplicatie.API",
+      "RelativePath": "uploads/products/082f3032-519c-45a5-b151-85c401ea00e9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "92e4gnpat7",
+      "Integrity": "MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\082f3032-519c-45a5-b151-85c401ea00e9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\4992aa2d-c016-4088-8126-cddc82889d20.jpg",
+      "SourceId": "Aplicatie.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\",
+      "BasePath": "_content/Aplicatie.API",
+      "RelativePath": "uploads/products/4992aa2d-c016-4088-8126-cddc82889d20#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5mddxa6gf",
+      "Integrity": "nt0hwocFKgS8sjTlyCW/WHVy6TH/0UXjAx+SCIPiRgk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\4992aa2d-c016-4088-8126-cddc82889d20.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg",
+      "SourceId": "Aplicatie.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\",
+      "BasePath": "_content/Aplicatie.API",
+      "RelativePath": "uploads/products/fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "92e4gnpat7",
+      "Integrity": "MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/products/082f3032-519c-45a5-b151-85c401ea00e9.92e4gnpat7.jpg",
+      "AssetFile": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\082f3032-519c-45a5-b151-85c401ea00e9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 19:36:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "92e4gnpat7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/082f3032-519c-45a5-b151-85c401ea00e9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/082f3032-519c-45a5-b151-85c401ea00e9.jpg",
+      "AssetFile": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\082f3032-519c-45a5-b151-85c401ea00e9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 19:36:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/4992aa2d-c016-4088-8126-cddc82889d20.e5mddxa6gf.jpg",
+      "AssetFile": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\4992aa2d-c016-4088-8126-cddc82889d20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nt0hwocFKgS8sjTlyCW/WHVy6TH/0UXjAx+SCIPiRgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 13:30:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5mddxa6gf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/4992aa2d-c016-4088-8126-cddc82889d20.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nt0hwocFKgS8sjTlyCW/WHVy6TH/0UXjAx+SCIPiRgk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/4992aa2d-c016-4088-8126-cddc82889d20.jpg",
+      "AssetFile": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\4992aa2d-c016-4088-8126-cddc82889d20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nt0hwocFKgS8sjTlyCW/WHVy6TH/0UXjAx+SCIPiRgk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 13:30:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nt0hwocFKgS8sjTlyCW/WHVy6TH/0UXjAx+SCIPiRgk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.92e4gnpat7.jpg",
+      "AssetFile": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 18:56:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "92e4gnpat7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg",
+      "AssetFile": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\wwwroot\\uploads\\products\\fae00a26-f0e4-4eeb-a7ea-b7d3ef72d456.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 18:56:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfyhW3pXLWscz0CV2W2Cd4FG0+2PY/WICi0yr+CcJcs="
+        }
+      ]
+    }
+  ]
+}

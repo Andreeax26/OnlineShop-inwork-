@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\paymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\paymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\aplicatie.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\aplicatie.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\aplicatie.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\aplicatie.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\shoppingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\shoppingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\migrations\\20250316184757_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\migrations\\20250316184757_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|c:\\users\\andreea\\aplicatieapi\\aplicatie.api\\aplicatie.api\\models\\userpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E8F2BA-3077-48B1-92A6-24C4F179F1CE}|Aplicatie.API\\Aplicatie.API.csproj|solutionrelative:aplicatie.api\\models\\userpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\obj\\Debug\\net8.0\\mg2g2mro.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicatie.API\\obj\\Debug\\net8.0\\mg2g2mro.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Aplicatie.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAuwPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:16:44.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\Product.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:00:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Program.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Program.cs",
+              "RelativeToolTip": "Aplicatie.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:00:38.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\PaymentDetails.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\PaymentDetails.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\PaymentDetails.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\PaymentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:03:48.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aplicatie.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Aplicatie.API.csproj",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Aplicatie.API.csproj",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Aplicatie.API.csproj",
+              "RelativeToolTip": "Aplicatie.API\\Aplicatie.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T14:17:46.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aplicatie.API.http",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Aplicatie.API.http",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Aplicatie.API.http",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Aplicatie.API.http",
+              "RelativeToolTip": "Aplicatie.API\\Aplicatie.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-17T15:16:17.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:00:21.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Aplicatie.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\appsettings.json",
+              "RelativeToolTip": "Aplicatie.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T15:58:14.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\Discount.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:01:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:03:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\OrderItems.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:03:35.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Aplicatie.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:18:04.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Aplicatie.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:09:10.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\User.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:01:31.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShoppingSession.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\ShoppingSession.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\ShoppingSession.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\ShoppingSession.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\ShoppingSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:02:34.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\ProductInventory.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\ProductInventory.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\ProductInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:01:10.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\UserAddress.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\UserAddress.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\UserAddress.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\UserAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:02:05.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\CartItem.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:02:46.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250316184757_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Migrations\\20250316184757_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Migrations\\20250316184757_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Migrations\\20250316184757_InitialCreate.cs",
+              "RelativeToolTip": "Aplicatie.API\\Migrations\\20250316184757_InitialCreate.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAYwL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:53:51.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\UserPayment.cs",
+              "RelativeDocumentMoniker": "Aplicatie.API\\Models\\UserPayment.cs",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\Models\\UserPayment.cs",
+              "RelativeToolTip": "Aplicatie.API\\Models\\UserPayment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:02:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "mg2g2mro.sql",
+              "DocumentMoniker": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\obj\\Debug\\net8.0\\mg2g2mro.sql",
+              "RelativeDocumentMoniker": "Aplicatie.API\\obj\\Debug\\net8.0\\mg2g2mro.sql",
+              "ToolTip": "C:\\Users\\Andreea\\AplicatieAPI\\Aplicatie.API\\Aplicatie.API\\obj\\Debug\\net8.0\\mg2g2mro.sql",
+              "RelativeToolTip": "Aplicatie.API\\obj\\Debug\\net8.0\\mg2g2mro.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-15T19:08:36.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
